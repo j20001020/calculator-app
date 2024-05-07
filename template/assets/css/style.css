@@ -1,0 +1,50 @@
+.outer {
+    background-color: #dadada;
+    height: 100vh;
+    display: flex;
+}
+
+.container {
+    margin: auto;
+    background-color: #69e0d2;
+    border: 3px solid green;
+    height: 70%;
+    width: 35%;
+}
+.row{
+    text-align: center;
+    vertical-align: center;
+}
+.alert{
+    margin: 0;
+    padding: 12px;
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
+.col{
+    text-align: center;
+    width: 90%;
+}
+.col-6{
+    text-align: center;
+}
+.row{
+    border: 2px solid black;
+    min-height: 16%
+}
+button{
+    width: 100%;
+    font-weight: bold;
+}
+.sub{
+    background-color: #065cde;
+}
+input{
+    text-align: right;
+    background-color: transparent;
+    font-size: 2rem;
+    border: none;
+    width: 100%;
+    font-weight: bold;
+}
